@@ -6,7 +6,7 @@
   <img align="left" alt="Alexander's Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id= mangaka585.mangaka585.github.io)
+![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
 
 <br />
 
