@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/aleksandr-tatevosian-799410200/">
   <img align="left" alt="Alexander's LinkedIN" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
 </a>
+<a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
+  <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
+</a>
 <a href="https://www.instagram.com/developer_tatevosyan/">
   <img align="left" alt="Alexander's Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />
 </a>
@@ -22,13 +25,20 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_wordmark_logo_icon_146410.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gulp_plain_logo_icon_146485.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/grunt_original_wordmark_logo_icon_146489.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
