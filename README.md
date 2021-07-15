@@ -5,9 +5,7 @@
 <a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
 </a>
-<a href="https://www.instagram.com/developer_tatevosyan/">
-  <img align="left" alt="Alexander's Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />
-</a>
+https://www.codewars.com/users/mangaka585/badges/large
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
 
