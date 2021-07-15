@@ -40,4 +40,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
 <br>
-<img src="https://www.codewars.com/users/mangaka585/badges/large" alt="codewars logo" />
+<img src="https://www.codewars.com/users/mangaka585/badges/large" alt="codewars logo" style="margin-top: 15px;"/>
