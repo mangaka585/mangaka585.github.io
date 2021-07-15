@@ -5,7 +5,6 @@
 <a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
 </a>
-<img src="https://www.codewars.com/users/mangaka585/badges/large" alt="codewars logo" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
 
@@ -40,3 +39,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
+<br>
+<img src="https://www.codewars.com/users/mangaka585/badges/large" alt="codewars logo" />
