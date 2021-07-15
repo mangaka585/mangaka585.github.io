@@ -5,7 +5,7 @@
 <a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
 </a>
-https://www.codewars.com/users/mangaka585/badges/large
+<img src="https://www.codewars.com/users/mangaka585/badges/large" alt="codewars logo" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
 
